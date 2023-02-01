@@ -1,0 +1,8 @@
+IsControlPlane=false
+SkipSetIP=true
+Hostname=worker10
+IPAddress=192.168.2.210
+IPAddressGateway=192.168.2.1
+IPAddressDNS=192.168.2.1
+PodNetwork=10.244.0.0/16
+CommonFolder=/usr/share/kubernetes
